@@ -3015,7 +3015,7 @@
         <l gn="1184" n="42" form="verse">&#8216;Tis fearful sleeping in a serpent&#8217;s bed</l>
         <l gn="1185" n="43" form="verse">And I will cleanly rid my hands of her.</l>
         <stage sgn="1185.01" sn="43.01">
-          <dir>Alice, returning from church, enters carrying a prayerbook.</dir>
+          <dir>Alice, returning from church, enters carrying a prayer book.</dir>
           <action type="enter">
             <actor>ALICE.</actor>
           </action>
@@ -3131,11 +3131,11 @@
         <l gn="1255" n="113" form="verse">Nothing shall hide me from thy stormy look.</l>
         <l gn="1256" n="114" form="verse">If thou cry war, there is no peace for me.</l>
         <l gn="1257" n="115" form="verse">I will do penance for offending thee</l>
-        <l gn="1258" n="116" form="verse">And burn this prayerbook, where I here use</l>
+        <l gn="1258" n="116" form="verse">And burn this prayer book, where I here use</l>
         <l gn="1259" n="117" form="verse">The holy word that had converted me.</l>
         <l gn="1260" n="118" form="verse">See, Mosby, I will tear away the leaves,</l>
         <stage sgn="1260.01" sn="118.01">
-          <dir>She tears out leaves from the prayerbook.</dir>
+          <dir>She tears out leaves from the prayer book.</dir>
           <action type="action">
             <actor>ALICE.</actor>
           </action>
@@ -6233,7 +6233,7 @@
       </sp>
       <sp>
         <speaker long="Franklin">FRANK.</speaker>
-        <l gn="2158" n="350" form="verse">Know you this handtowel and this knife?</l>
+        <l gn="2158" n="350" form="verse">Know you this hand towel and this knife?</l>
       </sp>
       <sp>
         <speaker long="Susan">SUS.</speaker>
