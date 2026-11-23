@@ -39,3 +39,22 @@ The First Folio files are not corrected in this pass.
 Corrections by iamiq, June 2026. These changes are released under the same
 GFDL 1.3 licence as the texts. The original PlayShakespeare.com copyright
 and licence notices above are unchanged.
+
+----
+
+Corrections, November 2026
+
+A second pass fixes 525 more joined-word errors in 48 files, restoring 586
+missing spaces. The June scan only looked for two long words run together,
+so it missed joins with a short word (Macbeth "Tend onmortalthoughts" for
+"on mortal thoughts"), three or more words run together, and words with an
+apostrophe or hyphen (Hamlet "the sleddedPolacks", Macbeth "sorelycharg'd").
+
+The same rules apply: spaces only, nothing else changed, names and
+deliberate language left alone. Each fix was checked against an
+independent edition at the same passage (for the two apocryphal lines no
+edition covers, against how the same file prints those words elsewhere),
+and each was reviewed by a second reader. The rows are appended to
+corrections/fixed-words.tsv in the same format.
+
+The First Folio files are still not corrected.

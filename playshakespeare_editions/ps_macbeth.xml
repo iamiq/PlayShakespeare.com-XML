@@ -899,7 +899,7 @@
           </action>
         </stage>
         <l gn="225" n="127" form="verse" rend="indent(6)">Two truths are told,</l>
-        <l gn="226" n="128" form="verse">As happy prologues to the swellingact</l>
+        <l gn="226" n="128" form="verse">As happy prologues to the swelling act</l>
         <l gn="227" n="129" form="verse">Of the imperial theme.&#8212;I thank you, gentlemen.</l>
         <stage sgn="227.01" sn="129.01">
           <dir>Aside.</dir>
@@ -1234,7 +1234,7 @@
         <l gn="352" n="25" form="verse" rend="indent(4)">The raven himself is hoarse</l>
         <l gn="353" n="26" form="verse">That croaks the fatal entrance of Duncan</l>
         <l gn="354" n="27" form="verse">Under my battlements. Come, you spirits</l>
-        <l gn="355" n="28" form="verse">That tend onmortalthoughts, unsex me here,</l>
+        <l gn="355" n="28" form="verse">That tend on mortal thoughts, unsex me here,</l>
         <l gn="356" n="29" form="verse">And fill me from the crown to the toe topful</l>
         <l gn="357" n="30" form="verse">Of direst cruelty! Make thick my blood,</l>
         <l gn="358" n="31" form="verse">Stop up th&#8217; access and passage to remorse,</l>
@@ -1736,7 +1736,7 @@
         <l gn="578" n="49" form="verse">Thus to mine eyes. Now o&#8217;er the one half world</l>
         <l gn="579" n="50" form="verse">Nature seems dead, and wicked dreams abuse</l>
         <l gn="580" n="51" form="verse">The curtain&#8217;d sleep; witchcraft celebrates</l>
-        <l gn="581" n="52" form="verse">Pale Hecat&#8217;soff&#8217;rings; and wither&#8217;d Murder,</l>
+        <l gn="581" n="52" form="verse">Pale Hecat&#8217;s off&#8217;rings; and wither&#8217;d Murder,</l>
         <l gn="582" n="53" form="verse">Alarum&#8217;d by his sentinel, the wolf,</l>
         <l gn="583" n="54" form="verse">Whose howl&#8217;s his watch, thus with his stealthy pace,</l>
         <l gn="584" n="55" form="verse">With Tarquin&#8217;s ravishing strides, towards his design</l>
@@ -2226,7 +2226,7 @@
         <l gn="737" n="48" form="verse">Banquo and Donalbain! Malcolm, awake!</l>
         <l gn="738" n="49" form="verse">Shake off this downy sleep, death&#8217;s counterfeit,</l>
         <l gn="739" n="50" form="verse">And look on death itself! Up, up, and see</l>
-        <l gn="740" n="51" form="verse">The great doom&#8217;simage! Malcolm! Banquo!</l>
+        <l gn="740" n="51" form="verse">The great doom&#8217;s image! Malcolm! Banquo!</l>
         <l gn="741" n="52" form="verse">As from your graves rise up, and walk like sprites,</l>
         <l gn="742" n="53" form="verse">To countenance this horror! Ring the bell.</l>
       </sp>
@@ -2341,7 +2341,7 @@
         <l gn="782" n="86" form="verse">And his gash&#8217;d stabs look&#8217;d like a breach in nature</l>
         <l gn="783" n="87" form="verse">For ruin&#8217;s wasteful entrance; there, the murderers,</l>
         <l gn="784" n="88" form="verse">Steep&#8217;d in the colors of their trade, their daggers</l>
-        <l gn="785" n="89" form="verse">Unmannerlybreech&#8217;d with gore. Who could refrain,</l>
+        <l gn="785" n="89" form="verse">Unmannerly breech&#8217;d with gore. Who could refrain,</l>
         <l gn="786" n="90" form="verse">That had a heart to love, and in that heart</l>
         <l gn="787" n="91" form="verse">Courage to make &#8217;s love known?</l>
       </sp>
@@ -4740,7 +4740,7 @@
       <sp>
         <speaker long="Malcolm">MAL.</speaker>
         <l gn="1729" n="76" form="verse" rend="indent(4)">With this, there grows</l>
-        <l gn="1730" n="77" form="verse">In my most ill-compos&#8217;daffection such</l>
+        <l gn="1730" n="77" form="verse">In my most ill-compos&#8217;d affection such</l>
         <l gn="1731" n="78" form="verse">A stanchless avarice that, were I king,</l>
         <l gn="1732" n="79" form="verse">I should cut off the nobles for their lands,</l>
         <l gn="1733" n="80" form="verse">Desire his jewels, and this other&#8217;s house,</l>
@@ -5137,7 +5137,7 @@
       </sp>
       <sp>
         <speaker long="Doctor of Physic">DOCT. PHYS.</speaker>
-        <l gn="1923" n="3" form="prose">A great perturbation in nature, to receive at once the benefit of sleep and do the effects of watching! In this slumb&#8217;ryagitation, besides her walking and other actual performances, what, at any time, have you heard her say?</l>
+        <l gn="1923" n="3" form="prose">A great perturbation in nature, to receive at once the benefit of sleep and do the effects of watching! In this slumb&#8217;ry agitation, besides her walking and other actual performances, what, at any time, have you heard her say?</l>
       </sp>
       <sp>
         <speaker long="Gentlewoman">GENTLEW.</speaker>
@@ -5216,7 +5216,7 @@
       </sp>
       <sp>
         <speaker long="Doctor of Physic">DOCT. PHYS.</speaker>
-        <l gn="1942" n="22" form="prose">What a sigh is there! The heart is sorelycharg&#8217;d.</l>
+        <l gn="1942" n="22" form="prose">What a sigh is there! The heart is sorely charg&#8217;d.</l>
       </sp>
       <sp>
         <speaker long="Gentlewoman">GENTLEW.</speaker>
@@ -5513,7 +5513,7 @@
         <l gn="2046" n="41" form="verse">Pluck from the memory a rooted sorrow,</l>
         <l gn="2047" n="42" form="verse">Raze out the written troubles of the brain,</l>
         <l gn="2048" n="43" form="verse">And with some sweet oblivious antidote</l>
-        <l gn="2049" n="44" form="verse">Cleanse the stuff&#8217;dbosom of that perilous stuff</l>
+        <l gn="2049" n="44" form="verse">Cleanse the stuff&#8217;d bosom of that perilous stuff</l>
         <l gn="2050" n="45" form="verse">Which weighs upon the heart?</l>
       </sp>
       <sp>
@@ -5972,7 +5972,7 @@
       </stage>
       <sp>
         <speaker long="Siward, Earl of Northumberland">SIW.</speaker>
-        <l gn="2193" n="24" form="verse">This way, my lord, the castle&#8217;s gentlyrend&#8217;red:</l>
+        <l gn="2193" n="24" form="verse">This way, my lord, the castle&#8217;s gently rend&#8217;red:</l>
         <l gn="2194" n="25" form="verse">The tyrant&#8217;s people on both sides do fight,</l>
         <l gn="2195" n="26" form="verse">The noble thanes do bravely in the war,</l>
         <l gn="2196" n="27" form="verse">The day almost itself professes yours,</l>
