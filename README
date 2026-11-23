@@ -44,7 +44,7 @@ and licence notices above are unchanged.
 
 Corrections, November 2026
 
-A second pass fixes 525 more joined-word errors in 48 files, restoring 586
+A second pass fixes 526 more joined-word errors in 48 files, restoring 587
 missing spaces. The June scan only looked for two long words run together,
 so it missed joins with a short word (Macbeth "Tend onmortalthoughts" for
 "on mortal thoughts"), three or more words run together, and words with an
